@@ -56,7 +56,7 @@ Once collected, the data undergoes preprocessing to refine its representation an
 
 Ultimately, this process allows us to bridge the gap between the complexity of real-world phenomena and the structured simplicity of a dataset. By carefully conceptualizing the phenomenon, collecting relevant data, and preprocessing it for analysis, we create a dataset that serves as an accurate and reliable representation of the underlying world dynamics we aim to study.
 
-# Results(#sec-results)
+# Results {#sec-results}
 
 @fig-prices focused on Walmart product prices, reveals a clear and strong positive correlation between historical ("Old Price") and current ("Current Price"), with both axes on a logarithmic scale. The clustering of green data points along the orange trendline suggests that Walmart employs a consistent pricing strategy over time, with proportional changes in product prices. However, the scatter also highlights deviations from this trendline, where certain products have experienced disproportionate price changes. These outliers could indicate dynamic pricing adjustments driven by market factors such as demand fluctuations, supply chain disruptions, seasonal trends, or strategic pricing shifts for competitive positioning. Many products, however, exhibit minimal deviation from the trendline, reflecting stable and predictable pricing practices for the majority of Walmart’s offerings.
 
